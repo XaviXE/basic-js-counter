@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2020/09/23/03/54/background-5594879_1280.jpg");
+    background-size: cover;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    color: bisque;
+    height: 100vh;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 100px;
+    border-width: 2px;
+    border-color: bisque;
+}
+
+#increment-btn {
+    background: darkgoldenrod;
+}
+
+#save-btn {
+    background: darkcyan;
+}
+
